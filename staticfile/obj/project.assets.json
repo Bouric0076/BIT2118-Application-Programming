@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Csharpprograms\\BIT2118-Application-Programming\\StaticMethod\\StaticMethod.csproj",
-      "projectName": "StaticMethod",
-      "projectPath": "C:\\Csharpprograms\\BIT2118-Application-Programming\\StaticMethod\\StaticMethod.csproj",
+      "projectUniqueName": "C:\\Csharpprograms\\BIT2118-Application-Programming\\staticfile\\staticfile.csproj",
+      "projectName": "staticfile",
+      "projectPath": "C:\\Csharpprograms\\BIT2118-Application-Programming\\staticfile\\staticfile.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Csharpprograms\\BIT2118-Application-Programming\\StaticMethod\\obj\\",
+      "outputPath": "C:\\Csharpprograms\\BIT2118-Application-Programming\\staticfile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
