@@ -76,7 +76,7 @@ This repository contains **C# solutions** for our **BIT 2118 Application Program
 
 ---
 
-## ** Collaboration Workflow**  
+## **Collaboration Workflow**  
 1. **Pull latest changes**  
    ```sh
    git pull origin main
@@ -99,7 +99,7 @@ This repository contains **C# solutions** for our **BIT 2118 Application Program
 
 ---
 
-## ** Notes**  
+## **Notes**
 - All group members must **commit their code under their branch**.  
 - Use **meaningful commit messages** for better tracking.  
 - Before merging, ensure your code **runs without errors**.  
