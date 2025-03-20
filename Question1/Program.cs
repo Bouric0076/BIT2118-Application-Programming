@@ -5,16 +5,16 @@ class questionone
     static void Main()
     {
         int totalscore = 0;
-        int secretNumber = 7;
+        int secretNumber = 3;
 
 
         Console.Write("Enter the number of rounds: ");
 
         int rounds = int.Parse(Console.ReadLine());
 
-        for ( int i = 0; i < rounds; i++)
+        for ( int i = 1; i <= rounds; i++)
         {
-            Console.Write("Enter your Lucky number for round {i}: ");
+            Console.Write($"Enter your Lucky number for round {i}: ");
 
             int LuckyNumber = int.Parse(Console.ReadLine());
 
@@ -32,17 +32,20 @@ class questionone
             {
                 totalscore -=3;
             }
-
-            Console.WriteLine("Your score for round {i} is {totalscore}");
-
-            if (totalscore > 0)
-            {
-                Console.WriteLine("You win!");
-            }
-            else
-            {
-                Console.WriteLine("You lose");
-            }
         }
+
+        Console.WriteLine($"\nFinal Total Score: {totalScore}");
+        if (totalScore > 0)
+        {
+            Console.WriteLine("You win!");
+        }
+        else if (totalScore == 0)
+        {
+            Console.WriteLine("It's a draw.");
+        }
+        else
+        {
+            Console.WriteLine("You lose.");
+        } 
     }
 }
