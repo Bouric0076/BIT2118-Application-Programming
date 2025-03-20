@@ -34,12 +34,12 @@ class questionone
             }
         }
 
-        Console.WriteLine($"\nFinal Total Score: {totalScore}");
-        if (totalScore > 0)
+        Console.WriteLine($"\nFinal Total Score: {totalscore}");
+        if (totalscore > 0)
         {
             Console.WriteLine("You win!");
         }
-        else if (totalScore == 0)
+        else if (totalscore == 0)
         {
             Console.WriteLine("It's a draw.");
         }
