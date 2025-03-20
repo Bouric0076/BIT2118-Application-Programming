@@ -4,7 +4,7 @@
 # **BIT 2118 Application Programming Assignment**  
 
 ### **📌 Course:** BIT 2118 – Application Programming  
-### **📌 Group:** 9   
+### **📌 Group:** 5  
 
 ## **📖 Project Overview**  
 This repository contains **C# solutions** for our **BIT 2118 Application Programming Assignment I**. The project consists of **five programming tasks**, each solving a different problem using C#.  
