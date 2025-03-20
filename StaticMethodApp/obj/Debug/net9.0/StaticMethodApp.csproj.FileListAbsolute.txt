@@ -1,0 +1,15 @@
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\bin\Debug\net9.0\StaticMethodApp.exe
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\bin\Debug\net9.0\StaticMethodApp.deps.json
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\bin\Debug\net9.0\StaticMethodApp.runtimeconfig.json
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\bin\Debug\net9.0\StaticMethodApp.dll
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\bin\Debug\net9.0\StaticMethodApp.pdb
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.AssemblyInfoInputs.cache
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.AssemblyInfo.cs
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.sourcelink.json
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.dll
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\refint\StaticMethodApp.dll
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.pdb
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\StaticMethodApp.genruntimeconfig.cache
+C:\Users\pc\desktop\BIT2118-Application-Programming\StaticMethodApp\obj\Debug\net9.0\ref\StaticMethodApp.dll
