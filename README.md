@@ -13,7 +13,7 @@ This repository contains **C# solutions** for our **BIT 2118 Application Program
 
 ## **📜 Assignment Questions & Solutions**  
 
-### **1️⃣ Game Program (`question-one` Branch)**  
+### **1️⃣ Game Program (`question-1` Branch)**  
 - The user enters the number of rounds to play.  
 - For each round, they enter a lucky number.  
 - The program checks if the remainder (lucky number ÷ secret number) is:  
@@ -22,16 +22,16 @@ This repository contains **C# solutions** for our **BIT 2118 Application Program
   - **Odd number** → **Loss** (-3 points)  
 - At the end, it determines if the player **won, lost, or drew**.  
 
-### **2️⃣ Pattern Printing (`pattern-program` Branch)**  
+### **2️⃣ Pattern Printing (`question-2` Branch)**  
 - Uses **nested loops** to print a structured pattern.  
 - The diagonal contains `&`, while the rest are `*`.  
 
-### **3️⃣ Credit Worthiness Check (`credit-check` Branch)**  
+### **3️⃣ Credit Worthiness Check (`question-3` Branch)**  
 - Reads **credit limit**, **price**, and **quantity** of items.  
 - If the total cost exceeds the limit, the user must re-enter the quantity.  
 - Displays an appropriate message based on whether the purchase is allowed.  
 
-### **4️⃣ Area Calculator (`area-calc` Branch)**  
+### **4️⃣ Area Calculator (`question-4` Branch)**  
 - The user selects a **triangle, rectangle, or circle**.  
 - The program calculates the area based on user input.  
 - Allows the user **three attempts** in case of an invalid selection.  
@@ -68,9 +68,9 @@ This repository contains **C# solutions** for our **BIT 2118 Application Program
 | Mark | `@markmatheka` | Question 2 |  
 | Caroline | `@Obuya-ai` | Code Review Question 2 |  
 | Evans| `ruto-dave90` | Question 3 |  
-| Richard | `@username5` | Code Reviiew Question 3 |  
+| Richard | `@richu7777` | Code Reviiew Question 3 |  
 | Duncan | `@DuncanMathai` | Question 4 |  
-| Micah | `@username7` | Code Review Question 4 |  
+| Micah | `@MicahSagero` | Code Review Question 4 |  
 | Brian | `@B-122` | Question 5 |  
 | Jessy | `@Jessy12681` | Code Review Question 5 |  
 
