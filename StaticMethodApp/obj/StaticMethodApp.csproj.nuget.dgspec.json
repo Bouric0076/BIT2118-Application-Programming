@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\desktop\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj": {}
+    "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\desktop\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj": {
+    "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\desktop\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj",
+        "projectUniqueName": "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj",
         "projectName": "StaticMethodApp",
-        "projectPath": "C:\\Users\\pc\\desktop\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\desktop\\BIT2118-Application-Programming\\StaticMethodApp\\obj\\",
+        "projectPath": "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\StaticMethodApp\\StaticMethodApp.csproj",
+        "packagesPath": "C:\\Users\\bouri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\StaticMethodApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bouri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
