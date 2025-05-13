@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bouri\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\Question1\\StaticMethod.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\VS_Projects\\Votingpoll\\BIT2118-Application-Programming\\Question1\\StaticMethod.csproj",
       "projectName": "StaticMethod",
-      "projectPath": "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\Question1\\StaticMethod.csproj",
-      "packagesPath": "C:\\Users\\bouri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bouri\\documents\\BIT2118-Application-Programming\\Question1\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\VS_Projects\\Votingpoll\\BIT2118-Application-Programming\\Question1\\StaticMethod.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\VS_Projects\\Votingpoll\\BIT2118-Application-Programming\\Question1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bouri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
