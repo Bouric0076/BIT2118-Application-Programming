@@ -2,7 +2,7 @@
 
 class NestedLoop
 {
-    static void Main()
+    static void Main(string[]args)
     {
         int n = 6; 
 
