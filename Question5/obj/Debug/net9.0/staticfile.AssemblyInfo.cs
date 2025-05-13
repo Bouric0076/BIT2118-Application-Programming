@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("staticfile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b903880e02ce5641fba46b8ce5e8e143ae7ea53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c52f9742767ae4773ae335e4bc75b733593df23")]
 [assembly: System.Reflection.AssemblyProductAttribute("staticfile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("staticfile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
