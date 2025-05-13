@@ -5,9 +5,11 @@ namespace AreaCalculator
     class Program
     {
         static void Main(string[] args)
+            
         {
             int maxAttempts = 3;
             bool validChoice = false;
+        
 
             for (int attempts = 1; attempts <= maxAttempts; attempts++)
             {
